@@ -9,7 +9,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshu008&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=priyanshu008&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu008&theme=github-dark" height="150" alt="activity-graph graph"  />
 </div>
 
